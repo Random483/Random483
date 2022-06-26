@@ -23,11 +23,11 @@ Hi there 👋 I'm Andrew, a Statistical Analyst :chart_with_upwards_trend:
 [![Github](https://img.shields.io/badge/GitHub-Random483-181717?logo=github&style=plastic)](https://github.com/Random483)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew-0A66C2?logo=linkedin&style=plastic)](https://www.linkedin.com/in/andrewross5/)
-
+<!--
 [![Twitter](https://img.shields.io/badge/Twitter-@Random483-1DA1F2?logo=twitter&style=plastic)](https://twitter.com/Random483)
 
 [![Github](https://img.shields.io/badge/GitHub-Random483-green?logo=github&style=plastic)](https://github.com/Random483)
-
+-->
 </details>
 
 <details>
